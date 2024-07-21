@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🏛️ I'm studying systems analysis and development at UFPR.<br>🖥️ I'm a digital solutions apprentice at Bosch.<br>📚 I'm currently learning about Databases, Java and other content.<br>❤️‍🩹 Music and books are therapy.</p>
+<p align="left">🏛️ I'm studying systems analysis and development at UFPR.<br>🖥️ I'm a Digital Solutions apprentice at Bosch.<br>📚 I'm currently learning about Databases, Java and other content.<br>❤️‍🩹 Music and books are therapy.</p>
 
 
 <h2 align="left">I code with</h2>
