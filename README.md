@@ -9,7 +9,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🏛️ I'm studying Systems Analysis and Development at UFPR.<br>🖥️ I'm a Digital Solutions apprentice at Bosch.<br>📚 I'm currently learning about Databases, Java and other content.<br>❤️‍🩹 Music and books are therapy.</p> <br>
+<p align="left">🏛️ I'm studying Systems Analysis and Development at UFPR.<br>🖥️ I'm a Digital Solutions apprentice at Bosch.<br>📚 I'm currently learning about Databases, Java and other content.<br>❤ Music and books are therapy.</p> <br>
 
 
 <h2 align="left">I code with</h2>
