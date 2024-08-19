@@ -8,7 +8,6 @@
 
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ingridcriistine&theme=nightowl&exclude_days=Sun&card_width=620&card_height=140" alt="GitHub Streak" /></a>
 </div>
-
 </div><br>
 
 
