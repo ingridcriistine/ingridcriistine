@@ -6,7 +6,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ingridcriistine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ingridcriistine&theme=nightowl&exclude_days=Sat,Sun&card_width=620&card_height=140" alt="GitHub Streak" /></a>
 </div>
 </div><br>
 
